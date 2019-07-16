@@ -8,7 +8,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class NewActivity extends AppCompatActivity {
-    
+
     private TextView mTextview;
     private String getInfo;
 
